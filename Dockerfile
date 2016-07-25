@@ -5,6 +5,6 @@ RUN apk add --update git && apk add --update make && rm -rf /var/cache/apk/*
 ADD . /go/src/github.com/ernestio/router-builder
 WORKDIR /go/src/github.com/ernestio/router-builder
 
-RUN make deps && go install
+RUN make deps && make install
 
-ENTRYPOINT /go/bin/router-builder
+ENTRYPOINT ./entrypoint.sh
