@@ -6,8 +6,8 @@ Once all of them are fully processed it will emit back a message 'routers.create
 
 ## Build status
 
-* master:  [![CircleCI](https://circleci.com/gh/ErnestIO/router-builder/tree/master.svg?style=svg)](https://circleci.com/gh/ErnestIO/router-builder/tree/master)
-* develop: [![CircleCI](https://circleci.com/gh/ErnestIO/router-builder/tree/develop.svg?style=svg)](https://circleci.com/gh/ErnestIO/router-builder/tree/develop)
+* master:  [![CircleCI](https://circleci.com/gh/ernestio/router-builder/tree/master.svg?style=svg)](https://circleci.com/gh/ernestio/router-builder/tree/master)
+* develop: [![CircleCI](https://circleci.com/gh/ernestio/router-builder/tree/develop.svg?style=svg)](https://circleci.com/gh/ernestio/router-builder/tree/develop)
 
 ## Installation
 
